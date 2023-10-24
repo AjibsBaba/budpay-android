@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ajibsbaba.budpay.example"
+    namespace = "com.ajibsbaba.example"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.ajibsbaba.budpay.example"
+        applicationId = "com.ajibsbaba.example"
         minSdk = 16
         targetSdk = 33
         versionCode = 1
