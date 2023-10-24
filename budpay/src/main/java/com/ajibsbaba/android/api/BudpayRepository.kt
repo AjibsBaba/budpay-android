@@ -1,4 +1,6 @@
 package com.ajibsbaba.android.api
 
-class BudpayRepository {
+interface BudpayRepository {
+    fun fetchTransaction()
+    fun initializeTransaction()
 }

@@ -1,4 +1,4 @@
 package com.ajibsbaba.android.api.service
 
-class BudpayApiService {
+internal interface BudpayApiService {
 }

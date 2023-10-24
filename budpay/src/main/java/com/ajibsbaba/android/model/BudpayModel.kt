@@ -1,4 +1,4 @@
 package com.ajibsbaba.android.model
 
-class BudpayModel {
+abstract class BudpayModel {
 }
