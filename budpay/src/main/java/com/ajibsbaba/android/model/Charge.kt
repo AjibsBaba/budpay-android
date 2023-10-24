@@ -1,4 +1,6 @@
 package com.ajibsbaba.android.model
 
-class Charge {
+class Charge : BudpayModel() {
+
+    private class Card;
 }

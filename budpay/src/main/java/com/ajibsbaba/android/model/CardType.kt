@@ -1,3 +1,7 @@
 package com.ajibsbaba.android.model
 
-data class CardType()
+abstract class CardType(
+    val visa: String = "Visa",
+    val mastercard: String = "MasterCard",
+    val verve: String = "Verve"
+)
